@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta charset="UTF=8">
+    <meta name="viewsupport"content ="width=device-width,intial-scale=1.0">    
+    <title>My Website</title>
+<head>
+    <link rel="stylesheet" href="happy.css1">
+    <style>
+        h1{
+            font-style: italic;
+            color: rgb(22, 200, 200);
+            background-color: rgb(225, 61, 61);
+        }
+    </style>
+    <body>
+        <h1 style="color: bisque;background-color: black;">hiii</h1>
+        <h1>Hello</h1>
+        <h2>greetings</h2>
+
+     <div class="css"  id1="box1"></div>
+     <div class="css1" id2="box2"></div>
+     <div class="css2" id3="box3"></div>
+     
+     
+
+
+
+
+
+
+    </body>
+    
+
+
+<html>

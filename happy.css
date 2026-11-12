@@ -1,0 +1,40 @@
+p{
+   color:aquamarine;
+    background-color:blue;
+
+
+
+}
+h1{
+    color:blueviolet;
+    background-color:beige;
+    
+
+
+}
+.css1{
+    color:brown;
+    background-color:lightgray;
+}
+.css2{
+    color:darkgreen;
+    background-color:lightblue;
+}
+#id3{
+    color:darkred;
+    background-color:rgb(211, 19, 19);
+
+    
+}
+   h1,p,css2,#id2{
+      color:greenyellow;
+      background-color:lightgreen;
+   }
+
+      div p {
+        color:rgb(0, 171, 47);
+        background-color:violet;
+         
+
+      }
+      
